@@ -1,0 +1,101 @@
+{
+  "generated_at": "2026-07-31T09:45:00Z",
+  "items": [
+    {
+      "title": "Passkeys move from pilot projects toward broader enterprise adoption",
+      "source": "Sample content",
+      "published_at": "2026-07-30T08:00:00Z",
+      "category": "Authentication",
+      "summary": "A placeholder article showing how the dashboard presents a major authentication trend.",
+      "why_it_matters": "Passkeys affect enrolment, recovery, device trust and CIAM journey design.",
+      "study_topic": "Passkey recovery and account lifecycle patterns",
+      "relevance": 10,
+      "url": "https://fidoalliance.org/passkeys/",
+      "tags": [
+        "passkeys",
+        "FIDO",
+        "authentication"
+      ]
+    },
+    {
+      "title": "Non-human identity governance becomes a core IAM priority",
+      "source": "Sample content",
+      "published_at": "2026-07-29T09:00:00Z",
+      "category": "Machine Identity",
+      "summary": "A placeholder item for service accounts, workloads, secrets and machine identities.",
+      "why_it_matters": "Traditional workforce controls often do not cover the scale and velocity of non-human identities.",
+      "study_topic": "Machine identity discovery, ownership and rotation",
+      "relevance": 9,
+      "url": "https://www.nist.gov/",
+      "tags": [
+        "NHI",
+        "service accounts",
+        "workload identity"
+      ]
+    },
+    {
+      "title": "Identity threat detection is converging with access governance",
+      "source": "Sample content",
+      "published_at": "2026-07-28T10:00:00Z",
+      "category": "Identity Security",
+      "summary": "A placeholder article illustrating the link between detection, response and preventive governance.",
+      "why_it_matters": "Teams increasingly need shared signals across IAM, SOC and cloud security functions.",
+      "study_topic": "Identity threat detection and response operating model",
+      "relevance": 8,
+      "url": "https://www.cisa.gov/topics/cyber-threats-and-advisories",
+      "tags": [
+        "ITDR",
+        "identity security",
+        "SOC"
+      ]
+    },
+    {
+      "title": "CIAM teams reassess consent, fraud and progressive profiling",
+      "source": "Sample content",
+      "published_at": "2026-07-27T11:00:00Z",
+      "category": "CIAM",
+      "summary": "A placeholder item for customer identity architecture and user journey design.",
+      "why_it_matters": "Consent and fraud controls must be integrated without creating excessive customer friction.",
+      "study_topic": "CIAM consent and progressive profiling patterns",
+      "relevance": 7,
+      "url": "https://openid.net/",
+      "tags": [
+        "CIAM",
+        "consent",
+        "fraud"
+      ]
+    },
+    {
+      "title": "IGA programmes focus more strongly on application onboarding quality",
+      "source": "Sample content",
+      "published_at": "2026-07-26T12:00:00Z",
+      "category": "IGA",
+      "summary": "A placeholder article for governance, certification and application integration.",
+      "why_it_matters": "Poor source data and weak application ownership undermine access reviews and role models.",
+      "study_topic": "IGA application onboarding controls",
+      "relevance": 6,
+      "url": "https://www.identitymanagementinstitute.org/",
+      "tags": [
+        "IGA",
+        "access reviews",
+        "application onboarding"
+      ]
+    },
+    {
+      "title": "PAM architecture expands beyond traditional administrator accounts",
+      "source": "Sample content",
+      "published_at": "2026-07-25T13:00:00Z",
+      "category": "PAM",
+      "summary": "A placeholder item covering privileged access for cloud, DevOps and machine identities.",
+      "why_it_matters": "Privileged access increasingly includes ephemeral workloads, pipelines and cloud control planes.",
+      "study_topic": "Just-in-time privileged access in cloud environments",
+      "relevance": 5,
+      "url": "https://www.cisa.gov/zero-trust-maturity-model",
+      "tags": [
+        "PAM",
+        "JIT",
+        "cloud"
+      ]
+    }
+  ]
+}
