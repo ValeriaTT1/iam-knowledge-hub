@@ -1,0 +1,77 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <meta name="description" content="Weekly Identity and Access Management news and learning dashboard" />
+  <title>IAM Knowledge Hub</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+  <header class="topbar">
+    <div>
+      <div class="eyebrow">IDENTITY & ACCESS MANAGEMENT</div>
+      <h1>IAM Knowledge Hub</h1>
+      <p class="subtitle">Weekly news, trends and study recommendations for the team.</p>
+    </div>
+    <div class="updated" id="updated">Loading latest edition…</div>
+  </header>
+
+  <main class="shell">
+    <aside class="sidebar">
+      <section class="panel">
+        <h2>Explore</h2>
+        <div id="categoryFilters" class="filter-list"></div>
+      </section>
+
+      <section class="panel">
+        <h2>Study this week</h2>
+        <div id="studyTopics" class="study-list"></div>
+      </section>
+
+      <section class="panel compact">
+        <h2>About</h2>
+        <p>Articles are collected automatically from public web sources and ranked by IAM relevance.</p>
+      </section>
+    </aside>
+
+    <section class="content">
+      <div class="toolbar">
+        <label class="search">
+          <span>Search</span>
+          <input id="searchInput" type="search" placeholder="Search news, vendors or topics…" />
+        </label>
+        <select id="sortSelect" aria-label="Sort articles">
+          <option value="relevance">Most relevant</option>
+          <option value="newest">Newest first</option>
+        </select>
+      </div>
+
+      <section id="featured" class="featured"></section>
+
+      <div class="section-heading">
+        <div>
+          <div class="eyebrow">LATEST EDITION</div>
+          <h2>News and trends</h2>
+        </div>
+        <div id="resultCount" class="result-count"></div>
+      </div>
+
+      <section id="newsGrid" class="news-grid"></section>
+
+      <div id="emptyState" class="empty-state" hidden>
+        No articles match the selected filters.
+      </div>
+    </section>
+  </main>
+
+  <footer>
+    Always verify operational or security decisions against the original source.
+  </footer>
+
+  <script src="app.js"></script>
+</body>
+</html>
