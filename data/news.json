@@ -1,386 +1,118 @@
 {
-  "generated_at": "2026-08-14T12:19:15.302589+00:00",
+  "generated_at": "2026-08-14T12:52:03.274651+00:00",
   "items": [
-    {
-      "title": "MAESTRO Analysis of OpenAI and Anthropic Agent Hacking Incidents - Cloud Security Alliance (CSA)",
-      "source": "Cloud Security Alliance",
-      "published_at": "2026-08-13T20:56:05+00:00",
-      "primary_section": "Latest IAM Trends",
-      "sections": [
-        "Latest IAM Trends"
-      ],
-      "summary": "MAESTRO Analysis of OpenAI and Anthropic Agent Hacking Incidents Cloud Security Alliance (CSA)",
-      "relevance": 10,
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPRDlQMXZRWDF3OTlzNEZEVGxqSGQ3Nm5jckRXeEI2VHF2SE9lRGRlMWxqMlRZS1dUSGtwOUhnVnNlSEpUMEQ3UHBNUkdvVmZZZnh4aVhBUUdYQVlzWVBFZmRMMTJZbjFfR0tXY1d5NmY4Ml9qX2EzS2MwNUMyS3dDTjJrNlRlbTdHVlFfdmU0YllKUjdaSFMtV19oVEw2N2Rud0hfb3htc1ZKNWs?oc=5",
-      "tags": [
-        "IAM"
-      ]
-    },
     {
       "title": "Zero Trust at the device layer: Silent Okta Verify deployment at scale",
       "source": "Okta",
       "published_at": "2026-08-13T19:11:55+00:00",
       "primary_section": "Latest IAM Trends",
       "sections": [
-        "Latest IAM Trends",
-        "Top Security Vendors"
+        "Latest IAM Trends"
       ],
       "summary": "Zero Trust at the device layer: Silent Okta Verify deployment at scale Okta",
       "relevance": 10,
+      "confidence": "High",
       "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNeGNubUpaMW5hX1VIc0g3bS1rUHNsMkRoeHo1eUlFcFFJSHM3MkR2LVZZdm1BdERJUXlUUHpiVWQ2dTdycE56TVAzYi1Kd3NHNWp3UDlxSm9oSnh1UmJsbVUzVEhaOWdoY04zekJtdzFRRXNZbjVZbXJBR3V1ZUMxYlcyM1pjTXVhOUFJ?oc=5",
       "tags": [
         "Zero Trust"
-      ]
+      ],
+      "first_seen": "2026-08-13T19:11:55+00:00",
+      "last_seen": "2026-08-14T12:52:03.274651+00:00"
     },
     {
-      "title": "Data Analyst - 2026/2027 graduates in Stamford, Connecticut, United States of America - Gartner Careers",
-      "source": "Gartner",
-      "published_at": "2026-08-13T09:33:13+00:00",
+      "title": "Four AI Escapes: A Systemic Governance Risk Reading - Cloud Security Alliance (CSA)",
+      "source": "Cloud Security Alliance",
+      "published_at": "2026-08-09T07:00:00+00:00",
       "primary_section": "Latest IAM Trends",
       "sections": [
         "Latest IAM Trends"
       ],
-      "summary": "Data Analyst - 2026/2027 graduates in Stamford, Connecticut, United States of America Gartner Careers",
-      "relevance": 10,
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE96YWhLS19ZTmI5OXM5TnRGQ3c5M3o4OGhXVHB2dTVBNUJ1N1Z6bFFDN0t4VDJpUjAya0JucC1WR0NOZkJkRmNWWUN5TXVzUHpOMFFjMktURmplS1J4ZGo0Vk9zcGhDU2g2V19qRTBVOU9oT1Y5eWw1THVGT2VCZDg?oc=5",
+      "summary": "Four AI Escapes: A Systemic Governance Risk Reading Cloud Security Alliance (CSA)",
+      "relevance": 6,
+      "confidence": "Medium",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQZS1MRnQ0YkhZM0NKOXdNUHdaTTU4U2k1ekcyRXd0X28wX0Q5RkhSV3JyeVBZRHRMNGVnZTRsdVBPeW94SDZCSF8xQWh3bUFOb1BMUWV2NUpld3pDb1V2VlpzVlJmMVpoUVh0R3pSMU91Z2p6ZWJiSG90RjQtYk85MHVtSUgwbVZYRVZTVGQ1N2FCLXF5WVBZbENn?oc=5",
       "tags": [
         "IAM"
-      ]
-    },
-    {
-      "title": "Federal Account Executive, Federal Civilian",
-      "source": "Wiz",
-      "published_at": "2026-08-14T11:48:51+00:00",
-      "primary_section": "Top Security Vendors",
-      "sections": [
-        "Top Security Vendors"
       ],
-      "summary": "Federal Account Executive, Federal Civilian wiz.io",
-      "relevance": 10,
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5MRWFFbmZkT3NlRVQ4RUdXSGUyVG9RRXNwUlFHcXJhckxwZll6ZXhrczRJWWhFcF93eGVJVU5fck1INlZtVzJhbnNoSlJfWUtuMDZFaDl2TG40RzV2TlhoYnF3VXZQVGxma05LWThvUkp3Tnda?oc=5",
-      "tags": [
-        "IAM"
-      ]
+      "first_seen": "2026-08-14T12:52:03.274651+00:00",
+      "last_seen": "2026-08-14T12:52:03.274651+00:00"
     },
     {
-      "title": "eStudent - Macquarie University - Okta",
+      "title": "Using advanced posture checks as a tooling watchdog",
       "source": "Okta",
-      "published_at": "2026-08-14T11:08:26+00:00",
+      "published_at": "2026-08-12T07:07:37+00:00",
       "primary_section": "Top Security Vendors",
       "sections": [
         "Top Security Vendors"
       ],
-      "summary": "eStudent - Macquarie University - Okta mq.okta.com",
+      "summary": "Using advanced posture checks as a tooling watchdog Okta",
       "relevance": 10,
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE00LXRlMEg1UldiZ201ZFRrYzNGUi14T1FxYzNWUHM0ZXI5RmhSUGxDU2hvZ1dYckFVbjhSUjRWYTJVZHljbTBpbGViY09BUk5VMDdyTFM2M042V3RMaEdPUGQ1UllTb3hWSVFtUkFmMk5zN3JhSkVlYW53?oc=5",
+      "confidence": "Medium",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPZVprNmhxMDc1dXZMUlZFN21qUG16U3VRdkRLVkNZYmE0Ymo4Z2hucFBOUF8tb3NtY2lxakd1VGZPanp0LU9vaDNkd0RueHNyT1hLc3FjM2xqZXJpS3NYVDNtd01xd2xDOGM3dlczTlZva0pWX2R5a0xSOVV5WG1KZkthYzlzUzVSRXpTdVBfQUYyY3d5Y19oQ0pIRGx1eTg?oc=5",
       "tags": [
         "IAM"
-      ]
+      ],
+      "first_seen": "2026-08-14T12:52:03.274651+00:00",
+      "last_seen": "2026-08-14T12:52:03.274651+00:00"
     },
     {
-      "title": "Manager, Engineering",
+      "title": "Defend your customer journey: Identity Threat Protection for Okta Customer Identity is now Generally Available",
       "source": "Okta",
-      "published_at": "2026-08-14T10:13:29+00:00",
+      "published_at": "2026-08-11T19:15:49+00:00",
       "primary_section": "Top Security Vendors",
       "sections": [
         "Top Security Vendors"
       ],
-      "summary": "Manager, Engineering Okta",
+      "summary": "Defend your customer journey: Identity Threat Protection for Okta Customer Identity is now Generally Available Okta",
       "relevance": 10,
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNdTlsYXA5ZFNSUXB2MF9YV25SejBMdnFxR0tPZVNadkRwV1ZOMUdpdEgwV2lJRENXcHFTUElZV3BUOVJPMlQ4ODg5UklHVUR2QTJxaXhKY3JqSGxMc2xxU0ZDZ3VNTGFMMGtLd05reTJvRnBKZGlnS0dyTVFEeVI2Z0Vubw?oc=5",
+      "confidence": "High",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQc3BUd3ZfMGhrcHp4Q3Q5ZENxdmQyd251VXhwZUZ0NXhNRU1vYVpYVDQ3eGFfOWprbWJKYVVUM1lFZm1aaXEwUmtwa0xnZDRoTXQ1ZmxMaXNYd2Z3Wi1nQWtYbkFYSHE4NEp0bkN2SHlFcXlNTjNlay1IaER6ajFiejVyZEpISG9zdHV4MFdxS1N6QXZsZkdV?oc=5",
       "tags": [
-        "IAM"
-      ]
+        "CIAM",
+        "Identity Security"
+      ],
+      "first_seen": "2026-08-14T12:52:03.274651+00:00",
+      "last_seen": "2026-08-14T12:52:03.274651+00:00"
     },
     {
-      "title": "How to Investigate GitHub PAT Compromise: Lessons From a Multi-Organization Campaign",
-      "source": "Wiz",
-      "published_at": "2026-08-13T15:04:28+00:00",
+      "title": "DeadLock ransomware: Breaking down a Rust-based encryptor with decentralized recovery infrastructure",
+      "source": "Microsoft Security",
+      "published_at": "2026-08-10T15:00:00+00:00",
       "primary_section": "Top Security Vendors",
       "sections": [
-        "Top Security Vendors",
-        "Emerging Threats"
+        "Top Security Vendors"
       ],
-      "summary": "How to Investigate GitHub PAT Compromise: Lessons From a Multi-Organization Campaign wiz.io",
-      "relevance": 10,
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9rRHRnQVBLVC0ybERLS0VDajFKaE12Wms4QWZGX0NrM1dVZVpyeUF6VGRGb3lOdmNzRTlzUEFucjh2emJzLUR1cy1iQ1pKYXlfLTR5cTdKMUtLWUZQRkl6bF9WLVJ6S2NVQng4?oc=5",
-      "tags": [
-        "IGA"
-      ]
-    },
-    {
-      "title": "Artificial Intelligence (AI) Emerges as an Attack Enabler and - Cloud Security Alliance (CSA)",
-      "source": "Cloud Security Alliance",
-      "published_at": "2026-08-13T12:55:59+00:00",
-      "primary_section": "Emerging Threats",
-      "sections": [
-        "Emerging Threats"
-      ],
-      "summary": "Artificial Intelligence (AI) Emerges as an Attack Enabler and Cloud Security Alliance (CSA)",
-      "relevance": 10,
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOVUVGbWYtMlRPSjRsZjY5WjNuYXVRYjZ5MmxibHlpWVNYejZnM0RtSndEVk5Hdlg4WnBIelczVFNUQlpaa3ZQMUNIWmsxUjRHUkp3WU9GNEJFRWJhYTI2OHdHMlRFM3JfRmkya3hyMENwemttNGVJdHJlVDc1YzJjMjNTckZvYXJDWmtRZG95NThJMGxmUy1TUkNDVVZrc29NclpzT1NzSW1Hb3Y1SVg0c1ZQSHY0bDBPcVNnTjRBUzFFN0pNdGRHU1BOcV8ydw?oc=5",
-      "tags": [
-        "IAM"
-      ]
-    },
-    {
-      "title": "Top Threats to Cloud Computing Survey Report 2026 - Cloud Security Alliance (CSA)",
-      "source": "Cloud Security Alliance",
-      "published_at": "2026-08-13T02:24:02+00:00",
-      "primary_section": "Emerging Threats",
-      "sections": [
-        "Emerging Threats"
-      ],
-      "summary": "Top Threats to Cloud Computing Survey Report 2026 Cloud Security Alliance (CSA)",
-      "relevance": 10,
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOX1dYT3c0MlV5Yk1FbE5fcFpRdldfYWF6VVpGcE1idXJ2MkxVUjJkTUlBclNjNDljVXRnZkhEa0kxYXJLQ1NOUC14aHROeFpjLU02dGVjc1JuVXhRNkMxUmpOMmI1Y1JMRHdVT2YwMGxfSlFBNl9TRUk0NHhUME1HRXlMV251Zw?oc=5",
-      "tags": [
-        "IAM"
-      ]
-    },
-    {
-      "title": "Defending Against Rogue AI: What the OpenAI/Hugging Face Incident Means for Cybersecurity Leaders",
-      "source": "Gartner",
-      "published_at": "2026-08-12T14:00:00+00:00",
-      "primary_section": "Top Security Vendors",
-      "sections": [
-        "Top Security Vendors",
-        "Market Share Insights"
-      ],
-      "summary": "Defending Against Rogue AI: What the OpenAI/Hugging Face Incident Means for Cybersecurity Leaders Gartner",
-      "relevance": 10,
-      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQc2xpSFgzV2U5enMzVDVCWTBpeXM4N1VRclNNZWZFb05Fa2stMjAzZ3VNT0lwaVNJMUVIMVljRDNGY2ZOLVJzNkFPYUk2TEVUMjJ3TGNkdjVMQnRHcTlGOU5OeGZLdjBCQTVHNnpPZUxWQmdnS2w4Qm1lRGNOaUExWFJrek1Jcnc5cHVxbUpleE5nS3FOVlFVOHlSSVdWUU8xNDl5eVFEZDlRalZpV3ZRWnFOZWV0Ny1vTnhPVUptQ3NXNUIwQ29TaFhnSmkwdk5tVDlJOEhLSGVWekdlMVE?oc=5",
-      "tags": [
-        "IAM"
-      ]
-    },
-    {
-      "title": "10 AI Value Metrics for Tech Services Leaders to Drive Business Growth",
-      "source": "Gartner",
-      "published_at": "2026-08-12T09:37:13+00:00",
-      "primary_section": "Top Security Vendors",
-      "sections": [
-        "Top Security Vendors",
-        "Market Share Insights"
-      ],
-      "summary": "10 AI Value Metrics for Tech Services Leaders to Drive Business Growth Gartner",
-      "relevance": 10,
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQR0kxXzlXN2I2VFktYVkxSlp3ZVZ2WGRYejJPRUI4NjdSdkFHM3p2THRGWjYtdzhoQkhUeVpuWWF4OHFOX0VOOHdlOEh6Q1BEMTFTejE2YlU4ckJSVmFQeUxvd2VhLUNZNXp5VXhNSDBnSEdVSmwyR1BwenRTaWxvZVNIUkowVXJpZ21iQ2M1ektTX1JVNzFtX0RKSFU4S3Uxb2g3bTNLb2JuOTJTX0p4Y2QwN19Gd0JqclJEdQ?oc=5",
-      "tags": [
-        "IAM"
-      ]
-    },
-    {
-      "title": "Tech CEOs: Fix GenAI Product Strategy or Risk Losing Market Share",
-      "source": "Gartner",
-      "published_at": "2026-08-11T07:00:00+00:00",
-      "primary_section": "Market Share Insights",
-      "sections": [
-        "Market Share Insights"
-      ],
-      "summary": "Tech CEOs: Fix GenAI Product Strategy or Risk Losing Market Share Gartner",
-      "relevance": 10,
-      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9KbkhGTmp1QWZjclROdC1WLVE5YXU4T1dkZkFicmtodnA4WnBKYmRLMmEzaGd2dWZSRlpfWHRqVDRMaTZNdjFRZEJBQUliejhacVJPVExhSQ?oc=5",
-      "tags": [
-        "IAM"
-      ]
-    },
-    {
-      "title": "Contract Negotiation Clinic: IAM Negotiation Playbook: 10 Powerful Tips, Tactics and Techniques to Optimize Technology Vendor Deals",
-      "source": "Gartner",
-      "published_at": "2026-08-12T02:37:09+00:00",
-      "primary_section": "Top Security Vendors",
-      "sections": [
-        "Top Security Vendors",
-        "Technology Developments"
-      ],
-      "summary": "Contract Negotiation Clinic: IAM Negotiation Playbook: 10 Powerful Tips, Tactics and Techniques to Optimize Technology Vendor Deals Gartner",
-      "relevance": 10,
-      "url": "https://news.google.com/rss/articles/CBMixwJBVV95cUxQODNvb1NGbmx5Smp2d0xqdEpLREp2MVptT0U1N3pabmprMDhsOElKaEVENC1JczdDVnNxQlRIS0pfMEFKcEN4cEdBWlNxdGl5N25pUDAxdTE5V0dQd2xuZ05Sa1hWTDNhVzJ0cDZFYXFTR0JOR1J2THVDT0JUYk9VZ0NhUzN6dDZyR25PMGNNYVRjekI0NGJDckZfWnk2X2JyMTNJRlVEUzJNaG5qMTFESFp2QWtvTkpnQk1pMGROQ1lhM2FyV0d2MDBCTnk1YVk0N2NfSzJPUllVUGdNVUdfQVpqYVhQMHdmQmNUakt2dVpUU0htYVY3b1kwYmppaUNMaUJXdzNOWTdtZDlJR1AtM0hmcTR5Slo5X3JieF9QNVh5MjEtSmJETHFqemFrSXJXUkVUZmplQlEtQzhrX2FQS3ZvaWtVbzg?oc=5",
-      "tags": [
-        "IAM"
-      ]
-    },
-    {
-      "title": "Machines and AI Agents: Not All That Different From Human Users",
-      "source": "Gartner",
-      "published_at": "2026-08-11T23:07:12+00:00",
-      "primary_section": "Latest IAM Trends",
-      "sections": [
-        "Latest IAM Trends",
-        "Technology Developments"
-      ],
-      "summary": "Machines and AI Agents: Not All That Different From Human Users Gartner",
-      "relevance": 10,
-      "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQbHlBZ3NOa2xZY3VDcW14eUVuMHlRNVZ6eEU5eE1BeHZmempWY2hITWpjSlBBU1YwUWNCczlGbm10YVpFS1htSXE1djkzLU82WGVfZGQtOXZjd3BrSEQ1TllzM2o3amNfOHM2ZnhuZm43UkdkdWRpbUZBRnI4VTlGUm51dmFNdXhHeElkcldmSXJ1ZFk3eF9Ed3p3d3ZxRjJwQ0VJRjdWQTNwRkpuaUt5cVFILWVYa3VYQWc2NE0xWi15RzExRGo3bC1qMnlEcnR0RzVaT1ZkX1VYUmpQUGZHN1FCNVl3UEpHMmhkcG9tNA?oc=5",
-      "tags": [
-        "AI & Identity"
-      ]
-    },
-    {
-      "title": "Empower AI Agents in the SDLC Using Building Blocks, Context and Guardrails",
-      "source": "Gartner",
-      "published_at": "2026-08-11T15:09:32+00:00",
-      "primary_section": "Latest IAM Trends",
-      "sections": [
-        "Latest IAM Trends",
-        "Technology Developments"
-      ],
-      "summary": "Empower AI Agents in the SDLC Using Building Blocks, Context and Guardrails Gartner",
-      "relevance": 10,
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5ucTNuSko3ZV9Pb20yTmhtbEYyMjEwMkxqTkFDMVNSdTJVRnAzUXRRUUpENlVDS2VnaUVGRGRhUV9FTzN5VGFUSFBRTFEzVHBhTVlN?oc=5",
-      "tags": [
-        "AI & Identity"
-      ]
-    },
-    {
-      "title": "Guest Keynote: Leading with Levity: How to Harness the Competitive Advantage of Improv and Humor, Seriously",
-      "source": "Gartner",
-      "published_at": "2026-08-12T20:04:55+00:00",
-      "primary_section": "Competitive Analysis",
-      "sections": [
-        "Competitive Analysis"
-      ],
-      "summary": "Guest Keynote: Leading with Levity: How to Harness the Competitive Advantage of Improv and Humor, Seriously Gartner",
-      "relevance": 10,
-      "url": "https://news.google.com/rss/articles/CBMipwJBVV95cUxNUHNTVE0wVmhDNUgxVHlzcm1qaWNEYlBscElOMmQ4aFpqMFA5OTFhZFdoUHlfbnFjTE5JQ0Z4cnE1NTRhMmFTWDFVWDd2WGpCTU9VeW8yU0E3SmQ5ckVDTFRNV3NDWjFOUG9xWG4yUkRzdGxPY3d0YUVYTTFIVkNPako2aTc1RFRjc1N5b2lVM29rTVlyMGxCem43SWlJZ3l1WlVzT1UxaDBLMjlvZXFKbUdQNDRCWElDQmp4NlIwNDFxREFjZk9yOEpkOXN1OTR5ZXZQOFNGRFllNFYzamtBV3ZpQ29qZXBxQXJEQkg1WW8yYU5rUDhIVkp1amI4b1dQM0w4WXh5SHRna2ZWeE9pYnlQcDBUTEVmUzB1NnhxdTdfLVUwX0Rn?oc=5",
-      "tags": [
-        "IAM"
-      ]
-    },
-    {
-      "title": "Submarket Context: Market Guide for Multienterprise Collaboration Networks",
-      "source": "Gartner",
-      "published_at": "2026-08-09T07:00:00+00:00",
-      "primary_section": "Competitive Analysis",
-      "sections": [
-        "Competitive Analysis"
-      ],
-      "summary": "Submarket Context: Market Guide for Multienterprise Collaboration Networks Gartner",
+      "summary": "DeadLock ransomware: Breaking down a Rust-based encryptor with decentralized recovery infrastructure microsoft.com",
       "relevance": 9,
-      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE84a0I3TWt0RHpENTJtMkpOcnFqd0hyZE9iY1hFODNvUnFCbnM5TXVEZDdCRFlvN05zdVA0ZXAtd19Jb2JmUC1MR18za3cyVVVvU0FRSkE2WQ?oc=5",
+      "confidence": "Medium",
+      "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOSDlhT0wxd2Q4ODFkX1ctRnltLTVkY2lVVlJnWmotajRvUEVNeV9RZjRFdzh5MzlrZDU5ZEwwUUFrZzRBTTExc1J3cUNIYlRBVmZldEtRVzJQelJCRk5pNmVzMFdfWmtiODBfdVB4OXYyMW8xVl9LS2RmaUhROUFsY3YtUmx5NWhBYnJBc2hweXg2UTE5ZVdtSE4yMTY4V1RIMjJWQTV3X1pXZ0dUYmJSQzFUUTlqZlRzWHM0UzRkdHJBWWpDYjF4SUNXcVRQaUtuZEVwNmk4eS1tNW9uX2JOS1R5NHhUdGFCRURvVmFR?oc=5",
       "tags": [
         "IAM"
-      ]
-    },
-    {
-      "title": "AI Vendor Race: How to Win and Grow in the Competitive U.S. Federal and Defense AI Market",
-      "source": "Gartner",
-      "published_at": "2026-08-10T07:00:00+00:00",
-      "primary_section": "Top Security Vendors",
-      "sections": [
-        "Top Security Vendors",
-        "Competitive Analysis"
       ],
-      "summary": "AI Vendor Race: How to Win and Grow in the Competitive U.S. Federal and Defense AI Market Gartner",
-      "relevance": 8,
-      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9yalFCaXp5VjN4cDBjS3cwdzhxX1BKUkR3blZYMUtRSExHaWNWWFBEQnpjRmQ4NUNuNjBHSWRkYnBoNHQ2SkxrZ0dDRDNZV3JiMHA2TTAyUQ?oc=5",
-      "tags": [
-        "IAM"
-      ]
+      "first_seen": "2026-08-14T12:52:03.274651+00:00",
+      "last_seen": "2026-08-14T12:52:03.274651+00:00"
     },
     {
-      "title": "Securing the future: Total Economic Impact study reveals the ROI of centralized identity",
+      "title": "Defend against session token theft with Okta and Google Chrome Enterprise",
       "source": "Okta",
-      "published_at": "2026-08-14T10:09:28+00:00",
-      "primary_section": "Top Security Vendors",
+      "published_at": "2026-08-12T18:00:15+00:00",
+      "primary_section": "Emerging Threats",
       "sections": [
-        "Top Security Vendors"
+        "Emerging Threats"
       ],
-      "summary": "Securing the future: Total Economic Impact study reveals the ROI of centralized identity Okta",
+      "summary": "Defend against session token theft with Okta and Google Chrome Enterprise Okta",
       "relevance": 10,
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPNUl1U0xjSXNjRVI3RXd3UXVlT1NwbHpaM3hZNC1oYVdGaGZMSUZWYUVqY0lPU3NqV2oyVW1mdURqMGV5NU9PUWJQZjhnTVZ4bjlJMFNGY0cwSGxFOGxTYnloRDB6QUN3UXF4OXlaZ1JxUmg3U3N3R1NqTm91NHJRQU9JQ3JqamdLeVBXTWkxc1U2bW4zbnN1VmV4eWRUNXNOTUdvcnJtYThJMkk?oc=5",
+      "confidence": "Medium",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQYkJ2bXdzeHdRMmxtNXdrQjVITDN6dDhuamRkS1BTdy1Cc3JubGp5bldXRW91Z0diTENpUWl4RDVQb2FUTWNhYkVUVHYtSVBhOUVwR2p0blRkQWFvNEZLajdtaTNpbHFyaS02U0JXSWdVemJ3UGZJYVlSeUt5ZDVDWg?oc=5",
       "tags": [
         "IAM"
-      ]
-    },
-    {
-      "title": "My Adobe Benefits - Okta",
-      "source": "Okta",
-      "published_at": "2026-08-14T10:02:33+00:00",
-      "primary_section": "Top Security Vendors",
-      "sections": [
-        "Top Security Vendors"
       ],
-      "summary": "My Adobe Benefits - Okta adobe.okta.com",
-      "relevance": 10,
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQNEdfMTloMVZiUmFrdVQwcktObGhPdk9KbWVBRWJRR0lPc3hJXzRzRGwxRnVNYWFCbHA2OE5FcGNEVE9vaW1ZR0hzN1JQTGZUN3lNOWlabFZuV0RMLUNZbnRjYUZZbU5IYy14b2VHOTNqUlhHRC0taHo5U0FIYUVxbmRkNWQ?oc=5",
-      "tags": [
-        "IAM"
-      ]
-    },
-    {
-      "title": "Workday - Sign In - Okta",
-      "source": "Okta",
-      "published_at": "2026-08-14T09:48:29+00:00",
-      "primary_section": "Top Security Vendors",
-      "sections": [
-        "Top Security Vendors"
-      ],
-      "summary": "Workday - Sign In - Okta livenation.okta.com",
-      "relevance": 10,
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE12ZDh5SGM0cVJwQ2FjQXVsdS11VUlsU19ZOTVzenBIR0Vpbkk0aVRfd2Fncl9jTEM5ejN0ZE5mbkVEOWdTQW83MkVpelVHVW1ha3BxQ2w5VDVrSncwZzJmb2dyRnZfeHMwU1FkR2M1VldYbHBuS2lCcA?oc=5",
-      "tags": [
-        "IAM"
-      ]
-    },
-    {
-      "title": "Nike - OKTA - Nike, Inc",
-      "source": "Okta",
-      "published_at": "2026-08-14T08:43:13+00:00",
-      "primary_section": "Top Security Vendors",
-      "sections": [
-        "Top Security Vendors"
-      ],
-      "summary": "Nike - OKTA - Nike, Inc nike.okta.com",
-      "relevance": 10,
-      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5aS0ZEMmxZNHV3bTZWUlRGbkJaekUyWjVGanJNeHRuV185bnlrZVRfU2toVUxLblVyZFVZTWNpNEV3bE9JRDNiLW1B?oc=5",
-      "tags": [
-        "IAM"
-      ]
-    },
-    {
-      "title": "Senior Software Engineer (Node.js & React.js)",
-      "source": "Okta",
-      "published_at": "2026-08-14T08:30:38+00:00",
-      "primary_section": "Top Security Vendors",
-      "sections": [
-        "Top Security Vendors"
-      ],
-      "summary": "Senior Software Engineer (Node.js & React.js) Okta",
-      "relevance": 10,
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQYU51N3A3TkUzRHhLanY5cHZORFIxWVZIRThiamFYT3U3VXpKclNXaDVWVVlmY1o0YngyQkE2V0xMeEJrWjVlWU5BamhYLUl3M3h5V3hBckZwRHJJOGt6QkpoMGZJRFN6YjdXd0RyTVpiVmdTX3NITzRvTWw5dFRRbUttZGxES3QzcWZxMVN0N0lnRzNaSEFTNzJuOWc0VTlf?oc=5",
-      "tags": [
-        "IAM"
-      ]
-    },
-    {
-      "title": "to Apply - Okta",
-      "source": "Okta",
-      "published_at": "2026-08-14T07:57:07+00:00",
-      "primary_section": "Top Security Vendors",
-      "sections": [
-        "Top Security Vendors"
-      ],
-      "summary": "to Apply - Okta flinders.okta.com",
-      "relevance": 10,
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOeEU1YXdROWtLQmUxT3JSQXRQRExDZzdGTVlDdlFBNm1MODFadXpoN1B6Mzk4V2xpWFFWTG8yeXZTemF5YkhneXFtRC1FVVMyRFJjZWlhZDJNVDc4d2FjQ1p0dGtnR3N3MW9keXRWbzhhZ2NBc2Z1bG1nYnVBeTcwLWRPS2RSa2xxbTM4b2xEV0pJcWtfQVMwS0x2Zw?oc=5",
-      "tags": [
-        "IAM"
-      ]
+      "first_seen": "2026-08-14T12:52:03.274651+00:00",
+      "last_seen": "2026-08-14T12:52:03.274651+00:00"
     }
   ],
   "collector_notes": {
-    "approved_sources": [
-      "cloudsecurityalliance.org",
-      "gartner.com",
-      "idsalliance.org",
-      "kuppingercole.com",
-      "microsoft.com",
-      "okta.com",
-      "wiz.io"
-    ],
-    "method": "Google News RSS restricted to approved domains; rule-based classification",
+    "method": "Approved editorial/research paths only; hard exclusions; IAM relevance and confidence scoring; source balancing.",
     "errors": []
   }
 }
