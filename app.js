@@ -1,0 +1,17 @@
+const SECTION_ORDER=["Latest IAM Trends","Top Security Vendors","Emerging Threats","Market Share Insights","Technology Developments","Competitive Analysis"];
+const QUESTIONS={
+"Latest IAM Trends":"What are the latest trends in Identity & Access Management?",
+"Top Security Vendors":"Who are the leading vendors in the Security & IAM market?",
+"Emerging Threats":"What new threats are emerging in the Security & IAM space?",
+"Market Share Insights":"What market-positioning or adoption signals are visible for IAM solutions?",
+"Technology Developments":"What are the recent technology developments in Security & IAM?",
+"Competitive Analysis":"How do major IAM vendors compare in capabilities, positioning and market presence?"
+};
+const state={items:[],search:"",tag:"All"};
+const esc=(v="")=>String(v).replace(/[&<>"']/g,c=>({"&":"&amp;","<":"&lt;",">":"&gt;","\"":"&quot;","'":"&#039;"}[c]));
+const fmt=v=>{const d=new Date(v);return isNaN(d)?v:d.toLocaleDateString(undefined,{day:"numeric",month:"short",year:"numeric"})};
+async function load(){const r=await fetch("data/news.json",{cache:"no-store"});const d=await r.json();state.items=d.items||[];document.getElementById("updated").textContent=`Updated ${fmt(d.generated_at)} · ${state.items.length} selected items`;renderTags();render()}
+function renderTags(){const s=new Set();state.items.forEach(i=>(i.tags||[]).forEach(t=>s.add(t)));document.getElementById("tagFilter").innerHTML='<option value="All">All IAM topics</option>'+[...s].sort().map(t=>`<option>${esc(t)}</option>`).join("")}
+function visible(){const q=state.search.toLowerCase().trim();return state.items.filter(i=>{const tag=state.tag==="All"||(i.tags||[]).includes(state.tag);const h=[i.title,i.summary,i.source,i.primary_section,...(i.sections||[]),...(i.tags||[])].join(" ").toLowerCase();return tag&&(!q||h.includes(q))}).sort((a,b)=>(b.relevance||0)-(a.relevance||0)||new Date(b.published_at)-new Date(a.published_at))}
+function render(){const items=visible();document.getElementById("sectionGrid").innerHTML=SECTION_ORDER.map(sec=>{const arr=items.filter(i=>(i.sections||[i.primary_section]).includes(sec)).slice(0,3);return `<article class="section-card"><h2>${sec}</h2><div class="question">${QUESTIONS[sec]}</div><div class="mini-list">${arr.length?arr.map(i=>`<div class="mini-item"><a href="${esc(i.url)}" target="_blank">${esc(i.title)}</a><span>${esc(i.source)} · ${fmt(i.published_at)}</span></div>`).join(""):'<div class="mini-item"><span>No selected item this week.</span></div>'}</div></article>`}).join("");document.getElementById("resultCount").textContent=`${items.length} articles`;document.getElementById("newsGrid").innerHTML=items.map(i=>`<article class="news-card"><div class="meta"><span class="pill">${esc(i.primary_section||"IAM")}</span><span>${esc(i.source)}</span><span>${fmt(i.published_at)}</span></div><h3>${esc(i.title)}</h3><p>${esc(i.summary||"")}</p><div class="tags">${(i.tags||[]).map(t=>`<span>${esc(t)}</span>`).join("")}</div><div class="bottom"><a href="${esc(i.url)}" target="_blank">Open original source →</a></div></article>`).join("")}
+document.getElementById("searchInput").addEventListener("input",e=>{state.search=e.target.value;render()});document.getElementById("tagFilter").addEventListener("change",e=>{state.tag=e.target.value;render()});load();
