@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-14T08:28:18.368043+00:00",
+  "generated_at": "2026-08-14T12:19:15.302589+00:00",
   "items": [
     {
       "title": "MAESTRO Analysis of OpenAI and Anthropic Agent Hacking Incidents - Cloud Security Alliance (CSA)",
@@ -48,31 +48,16 @@
       ]
     },
     {
-      "title": "Workday - Sign In - Okta",
-      "source": "Okta",
-      "published_at": "2026-08-14T06:45:53+00:00",
+      "title": "Federal Account Executive, Federal Civilian",
+      "source": "Wiz",
+      "published_at": "2026-08-14T11:48:51+00:00",
       "primary_section": "Top Security Vendors",
       "sections": [
         "Top Security Vendors"
       ],
-      "summary": "Workday - Sign In - Okta livenation.okta.com",
+      "summary": "Federal Account Executive, Federal Civilian wiz.io",
       "relevance": 10,
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE12ZDh5SGM0cVJwQ2FjQXVsdS11VUlsU19ZOTVzenBIR0Vpbkk0aVRfd2Fncl9jTEM5ejN0ZE5mbkVEOWdTQW83MkVpelVHVW1ha3BxQ2w5VDVrSncwZzJmb2dyRnZfeHMwU1FkR2M1VldYbHBuS2lCcA?oc=5",
-      "tags": [
-        "IAM"
-      ]
-    },
-    {
-      "title": "Nike - OKTA - Nike, Inc",
-      "source": "Okta",
-      "published_at": "2026-08-14T05:42:39+00:00",
-      "primary_section": "Top Security Vendors",
-      "sections": [
-        "Top Security Vendors"
-      ],
-      "summary": "Nike - OKTA - Nike, Inc nike.okta.com",
-      "relevance": 10,
-      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5aS0ZEMmxZNHV3bTZWUlRGbkJaekUyWjVGanJNeHRuV185bnlrZVRfU2toVUxLblVyZFVZTWNpNEV3bE9JRDNiLW1B?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5MRWFFbmZkT3NlRVQ4RUdXSGUyVG9RRXNwUlFHcXJhckxwZll6ZXhrczRJWWhFcF93eGVJVU5fck1INlZtVzJhbnNoSlJfWUtuMDZFaDl2TG40RzV2TlhoYnF3VXZQVGxma05LWThvUkp3Tnda?oc=5",
       "tags": [
         "IAM"
       ]
@@ -80,7 +65,7 @@
     {
       "title": "eStudent - Macquarie University - Okta",
       "source": "Okta",
-      "published_at": "2026-08-14T05:04:22+00:00",
+      "published_at": "2026-08-14T11:08:26+00:00",
       "primary_section": "Top Security Vendors",
       "sections": [
         "Top Security Vendors"
@@ -88,6 +73,21 @@
       "summary": "eStudent - Macquarie University - Okta mq.okta.com",
       "relevance": 10,
       "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE00LXRlMEg1UldiZ201ZFRrYzNGUi14T1FxYzNWUHM0ZXI5RmhSUGxDU2hvZ1dYckFVbjhSUjRWYTJVZHljbTBpbGViY09BUk5VMDdyTFM2M042V3RMaEdPUGQ1UllTb3hWSVFtUkFmMk5zN3JhSkVlYW53?oc=5",
+      "tags": [
+        "IAM"
+      ]
+    },
+    {
+      "title": "Manager, Engineering",
+      "source": "Okta",
+      "published_at": "2026-08-14T10:13:29+00:00",
+      "primary_section": "Top Security Vendors",
+      "sections": [
+        "Top Security Vendors"
+      ],
+      "summary": "Manager, Engineering Okta",
+      "relevance": 10,
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNdTlsYXA5ZFNSUXB2MF9YV25SejBMdnFxR0tPZVNadkRwV1ZOMUdpdEgwV2lJRENXcHFTUElZV3BUOVJPMlQ4ODg5UklHVUR2QTJxaXhKY3JqSGxMc2xxU0ZDZ3VNTGFMMGtLd05reTJvRnBKZGlnS0dyTVFEeVI2Z0Vubw?oc=5",
       "tags": [
         "IAM"
       ]
@@ -171,17 +171,16 @@
       ]
     },
     {
-      "title": "Is Your Workplace Ready for AI? How to Assess Readiness Before Adoption",
-      "source": "Microsoft Security",
-      "published_at": "2026-08-12T09:30:17+00:00",
-      "primary_section": "Top Security Vendors",
+      "title": "Tech CEOs: Fix GenAI Product Strategy or Risk Losing Market Share",
+      "source": "Gartner",
+      "published_at": "2026-08-11T07:00:00+00:00",
+      "primary_section": "Market Share Insights",
       "sections": [
-        "Top Security Vendors",
         "Market Share Insights"
       ],
-      "summary": "Is Your Workplace Ready for AI? How to Assess Readiness Before Adoption microsoft.com",
+      "summary": "Tech CEOs: Fix GenAI Product Strategy or Risk Losing Market Share Gartner",
       "relevance": 10,
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOeTF5SjZOZHgwaHFwRjU5RHRWbG9leW5vQVhaX1A2RTBFN2c5aXRtNHpVT2NxMTB3VjMyaTVXWnhsTmFZWU5HSjJrRFBzaU96Q0cwRnJXMGI0YVd4aWNQQXBydGlBQ3hhbmUyNUoxSGRRVjExWWVIUFpGWXBhaXhtRlpseGQtQkZMZDhiQTFuRkdCLUtobENLM1JzbVJ0bWVVRmg3SmZpSEloazJYS3pZSQ?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9KbkhGTmp1QWZjclROdC1WLVE5YXU4T1dkZkFicmtodnA4WnBKYmRLMmEzaGd2dWZSRlpfWHRqVDRMaTZNdjFRZEJBQUliejhacVJPVExhSQ?oc=5",
       "tags": [
         "IAM"
       ]
@@ -281,9 +280,84 @@
       ]
     },
     {
+      "title": "Securing the future: Total Economic Impact study reveals the ROI of centralized identity",
+      "source": "Okta",
+      "published_at": "2026-08-14T10:09:28+00:00",
+      "primary_section": "Top Security Vendors",
+      "sections": [
+        "Top Security Vendors"
+      ],
+      "summary": "Securing the future: Total Economic Impact study reveals the ROI of centralized identity Okta",
+      "relevance": 10,
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPNUl1U0xjSXNjRVI3RXd3UXVlT1NwbHpaM3hZNC1oYVdGaGZMSUZWYUVqY0lPU3NqV2oyVW1mdURqMGV5NU9PUWJQZjhnTVZ4bjlJMFNGY0cwSGxFOGxTYnloRDB6QUN3UXF4OXlaZ1JxUmg3U3N3R1NqTm91NHJRQU9JQ3JqamdLeVBXTWkxc1U2bW4zbnN1VmV4eWRUNXNOTUdvcnJtYThJMkk?oc=5",
+      "tags": [
+        "IAM"
+      ]
+    },
+    {
+      "title": "My Adobe Benefits - Okta",
+      "source": "Okta",
+      "published_at": "2026-08-14T10:02:33+00:00",
+      "primary_section": "Top Security Vendors",
+      "sections": [
+        "Top Security Vendors"
+      ],
+      "summary": "My Adobe Benefits - Okta adobe.okta.com",
+      "relevance": 10,
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQNEdfMTloMVZiUmFrdVQwcktObGhPdk9KbWVBRWJRR0lPc3hJXzRzRGwxRnVNYWFCbHA2OE5FcGNEVE9vaW1ZR0hzN1JQTGZUN3lNOWlabFZuV0RMLUNZbnRjYUZZbU5IYy14b2VHOTNqUlhHRC0taHo5U0FIYUVxbmRkNWQ?oc=5",
+      "tags": [
+        "IAM"
+      ]
+    },
+    {
+      "title": "Workday - Sign In - Okta",
+      "source": "Okta",
+      "published_at": "2026-08-14T09:48:29+00:00",
+      "primary_section": "Top Security Vendors",
+      "sections": [
+        "Top Security Vendors"
+      ],
+      "summary": "Workday - Sign In - Okta livenation.okta.com",
+      "relevance": 10,
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE12ZDh5SGM0cVJwQ2FjQXVsdS11VUlsU19ZOTVzenBIR0Vpbkk0aVRfd2Fncl9jTEM5ejN0ZE5mbkVEOWdTQW83MkVpelVHVW1ha3BxQ2w5VDVrSncwZzJmb2dyRnZfeHMwU1FkR2M1VldYbHBuS2lCcA?oc=5",
+      "tags": [
+        "IAM"
+      ]
+    },
+    {
+      "title": "Nike - OKTA - Nike, Inc",
+      "source": "Okta",
+      "published_at": "2026-08-14T08:43:13+00:00",
+      "primary_section": "Top Security Vendors",
+      "sections": [
+        "Top Security Vendors"
+      ],
+      "summary": "Nike - OKTA - Nike, Inc nike.okta.com",
+      "relevance": 10,
+      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5aS0ZEMmxZNHV3bTZWUlRGbkJaekUyWjVGanJNeHRuV185bnlrZVRfU2toVUxLblVyZFVZTWNpNEV3bE9JRDNiLW1B?oc=5",
+      "tags": [
+        "IAM"
+      ]
+    },
+    {
+      "title": "Senior Software Engineer (Node.js & React.js)",
+      "source": "Okta",
+      "published_at": "2026-08-14T08:30:38+00:00",
+      "primary_section": "Top Security Vendors",
+      "sections": [
+        "Top Security Vendors"
+      ],
+      "summary": "Senior Software Engineer (Node.js & React.js) Okta",
+      "relevance": 10,
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQYU51N3A3TkUzRHhLanY5cHZORFIxWVZIRThiamFYT3U3VXpKclNXaDVWVVlmY1o0YngyQkE2V0xMeEJrWjVlWU5BamhYLUl3M3h5V3hBckZwRHJJOGt6QkpoMGZJRFN6YjdXd0RyTVpiVmdTX3NITzRvTWw5dFRRbUttZGxES3QzcWZxMVN0N0lnRzNaSEFTNzJuOWc0VTlf?oc=5",
+      "tags": [
+        "IAM"
+      ]
+    },
+    {
       "title": "to Apply - Okta",
       "source": "Okta",
-      "published_at": "2026-08-14T04:54:54+00:00",
+      "published_at": "2026-08-14T07:57:07+00:00",
       "primary_section": "Top Security Vendors",
       "sections": [
         "Top Security Vendors"
@@ -291,81 +365,6 @@
       "summary": "to Apply - Okta flinders.okta.com",
       "relevance": 10,
       "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOeEU1YXdROWtLQmUxT3JSQXRQRExDZzdGTVlDdlFBNm1MODFadXpoN1B6Mzk4V2xpWFFWTG8yeXZTemF5YkhneXFtRC1FVVMyRFJjZWlhZDJNVDc4d2FjQ1p0dGtnR3N3MW9keXRWbzhhZ2NBc2Z1bG1nYnVBeTcwLWRPS2RSa2xxbTM4b2xEV0pJcWtfQVMwS0x2Zw?oc=5",
-      "tags": [
-        "IAM"
-      ]
-    },
-    {
-      "title": "Self-Service - ACC - Okta",
-      "source": "Okta",
-      "published_at": "2026-08-14T04:32:09+00:00",
-      "primary_section": "Top Security Vendors",
-      "sections": [
-        "Top Security Vendors"
-      ],
-      "summary": "Self-Service - ACC - Okta austincc.okta.com",
-      "relevance": 10,
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQVGRCVzZEek9ZNDE2WkxRQVl1b2Z0TzZXSTJEUzQxUnZSWm9hRUJHRHIxQVppWGMtOGxlbWxZbWpuZEpJM0dUSkZqRzJjcXFVVEdkZDJpTWsxaFVRYkFRR0VXTkFNc2thRGZWTTQtcjhLM1M0MUhYTjFVc2ZpR19mWlhLM3JwWnpiZ2x5SUhoZll1a3Zm?oc=5",
-      "tags": [
-        "IAM"
-      ]
-    },
-    {
-      "title": "SuccessFactors - Okta",
-      "source": "Okta",
-      "published_at": "2026-08-14T04:28:08+00:00",
-      "primary_section": "Top Security Vendors",
-      "sections": [
-        "Top Security Vendors"
-      ],
-      "summary": "SuccessFactors - Okta illinoisgov.okta.com",
-      "relevance": 10,
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPQzMxbDNhV1Jhc0cxdEI3NFRTdEZwTUc1ZzF3UVFSMUtfMDEteHFpay15S2dNOXRIVGdab0N6M3ROTXlRMHc3MWVRUFhPWDZjWG52OG5HWGo2cW1XMFplT2RHYU1WeEFmQXlKbHMtemFpOEV6VnRmY1hWbzJ0YXFIWGUxRmNOZVRGLS1vdmJBdzNGUkpyLWNHLXB4VU5Ea2dXRG1v?oc=5",
-      "tags": [
-        "IAM"
-      ]
-    },
-    {
-      "title": "Security and Quality Rollup for .NET Framework 3.5, 4.5.2, 4.6, 4.6.1, 4.6.2, 4.7, 4.7.1, 4.7.2, 4.8 for Windows Server 2012 (KB4535103)",
-      "source": "Microsoft Security",
-      "published_at": "2026-08-14T03:22:52+00:00",
-      "primary_section": "Top Security Vendors",
-      "sections": [
-        "Top Security Vendors"
-      ],
-      "summary": "Security and Quality Rollup for .NET Framework 3.5, 4.5.2, 4.6, 4.6.1, 4.6.2, 4.7, 4.7.1, 4.7.2, 4.8 for Windows Server 2012 (KB4535103) support.microsoft.com",
-      "relevance": 10,
-      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE90b0Vha00ySXRjYlh3ZVNad2N5SDBJeGxuZFRHQ2puMGg1cnRNV252b0ZlQzdmVm01RjkyMTBTcTMwQVJaa3lDVnM2WTZ6bU5hTTNtYUc1YjNCZ1A4?oc=5",
-      "tags": [
-        "IAM"
-      ]
-    },
-    {
-      "title": "Employee Directory - Indian River State College - Okta",
-      "source": "Okta",
-      "published_at": "2026-08-14T03:21:49+00:00",
-      "primary_section": "Top Security Vendors",
-      "sections": [
-        "Top Security Vendors"
-      ],
-      "summary": "Employee Directory - Indian River State College - Okta irsc.okta.com",
-      "relevance": 10,
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1KWDR1eExYYkE2NGg2Q3pscXJZNmJtZGk2T1VYamJnVUluUW9XcDdtUlFHXzN4VmZNY2lDeTBKdFJtXzNmUDRBd2JDTXFvV3dBbDc2aHFXdkduSVN0eVl4QXZPVTlqcXVwLTJ6enI3Ym4?oc=5",
-      "tags": [
-        "IAM"
-      ]
-    },
-    {
-      "title": "Workday - Mass General Brigham - Okta",
-      "source": "Okta",
-      "published_at": "2026-08-14T02:54:53+00:00",
-      "primary_section": "Top Security Vendors",
-      "sections": [
-        "Top Security Vendors"
-      ],
-      "summary": "Workday - Mass General Brigham - Okta partnershealthcare.okta.com",
-      "relevance": 10,
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNVXo4U1laQlU4WGhreElXcUVkU0pWSGJpd2c1by1DU0VSYVkwejV6RUxEeW54NnA3SE4yMmNWTzFQeFhLOS0wWDBBb196WlFPY1c3TVZuamNjQkJ3aGYwRURYNkNnTk9iZThaSENLVHBJNUVRUjFxWVQ4ZWxhUnNOSG9ZNm5VUWM2QWJrNzVUUHoyRy1UT1ItbzZ1b1NvOHVOdFlkQk1sVXU?oc=5",
       "tags": [
         "IAM"
       ]
